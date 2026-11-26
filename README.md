@@ -69,6 +69,7 @@ To move from the simulator to a physical device:
 │   └── TFTDisplay.cpp  # Hardware screen implementation
 ├── platformio.ini      # Build configuration
 └── README.md
+```
 
 ## 👨‍💻 Author
 **Malek Kamal** 
